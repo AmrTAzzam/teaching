@@ -8,7 +8,7 @@ Welcome to another lecture on neural advances in information retrieval. Today, w
 *17.72 seconds*
 
 ### **2** Today 
-Today, on one hand, we're going to talk about re ranking with Bert in the concatenated query and document way of using Bert, as well as some other techniques for improving upon this as well as long document handling. And then the second major point today is going to be about efficient transformer based models. So how can we take the advances from Transformers? Or Bert and make them faster and more efficient to use. So here we're going to take a look at a few models that try to improve upon the Bert efficiency as well as. The Transformer kernel family of models that we created to overcome the efficiency problems of bird. 
+Today, on one hand, we're going to talk about re ranking with Bert in the concatenated query and document way of using Bert, as well as some other techniques for improving upon this as well as long document handling. And then the second major point today is going to be about efficient transformer based models. So how can we take the advances from Transformers? Or Bert and make them faster and more efficient to use. So here we're going to take a look at a few models that try to improve upon the Bert efficiency as well as. The Transformer kernel family of models that we created to overcome the efficiency problems of Bert. 
 
 *60.51 seconds*
 
