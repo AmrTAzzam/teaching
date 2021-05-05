@@ -23,7 +23,7 @@ We are studying at Hawk Re ranking models and of course there are many other app
 *61.63 seconds*
 
 ### **5** Web Search with BERT 
-To get a sense of the impact that Bert has on search here we look at two blog posts by the two major search engine companies, Google and Microsoft, who both started to use Bert rear anchors in production in late 2019. So now if you search on Bing or Google, you will use a Bert rear anchor. Pretty much all of the time.  
+To get a sense of the impact that Bert has on search here we look at two blog posts by the two major search engine companies, Google and Microsoft, who both started to use Bert rear anchors in production in late 2019. So now if you search on Bing or Google, you will use a Bert re-rankers. Pretty much all of the time.  
 
 *35.85 seconds*
 
