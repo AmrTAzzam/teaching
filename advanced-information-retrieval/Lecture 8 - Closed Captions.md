@@ -18,7 +18,7 @@ We finally did it today. We are talking about the state of the art. To get here,
 *61.39 seconds*
 
 ### **4** Context of this Lecture 
-We are studying at Hawk Re ranking models and of course there are many other applications of Transformers in information retrieval, just to name a few. We can do document or query expansion. We can look at full QA pipelines, conversational search, where the query history is taken into account, dense retrieval or knowledge graph based search. All of these approaches. Used Transformers or can use Transformers? Today we're focusing on the efficiency effectiveness tradeoff from different angles. So how fast or slow is a model compared to the result quality? And of course we can also study many other aspects such as social biases, domain adoption or multilingual models, and many more. 
+We are studying adhock Re-ranking models and of course there are many other applications of Transformers in information retrieval, just to name a few. We can do document or query expansion. We can look at full QA pipelines, conversational search, where the query history is taken into account, dense retrieval or knowledge graph based search. All of these approaches. Used Transformers or can use Transformers? Today we're focusing on the efficiency effectiveness tradeoff from different angles. So how fast or slow is a model compared to the result quality? And of course we can also study many other aspects such as social biases, domain adoption or multilingual models, and many more. 
 
 *61.63 seconds*
 
